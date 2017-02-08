@@ -1,0 +1,102 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E8EAF6"
+    tools:context="com.example.pramudita.mosele.MainActivity">
+
+    <ImageView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="fitXY"
+        android:src="@drawable/lelebck" />
+
+    <LinearLayout
+        android:id="@+id/llKonten"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <ImageView
+            android:id="@+id/imgLogo"
+            android:layout_width="match_parent"
+            android:layout_height="85dp"
+            android:layout_marginBottom="5sp"
+            android:src="@drawable/lelelogo" />
+
+        <TextView
+            android:id="@+id/txtTitle"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_below="@+id/linearLayout1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="5sp"
+            android:gravity="center_vertical|center_horizontal"
+            android:text=""
+            android:textAllCaps="true"
+            android:textColor="#424242"
+            android:textSize="17sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/etUsername"
+            android:layout_width="wrap_content"
+            android:layout_height="53dp"
+            android:layout_gravity="center_horizontal"
+            android:inputType="text"
+            android:drawableLeft="@drawable/ic_user_2"
+            android:ems="10"
+            android:textColorHint="#99ccff"
+
+            android:textColor="#ffffff"
+            android:hint="@string/lbl_username" />
+
+        <EditText
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/etPassword"
+            android:layout_width="wrap_content"
+            android:layout_height="58dp"
+            android:drawableLeft="@drawable/ic_action_password"
+            android:ems="10"
+            android:hint="@string/lbl_password"
+            android:textColorHint="#99ccff"
+            android:inputType="textPassword"
+            android:textColor="#ffffff"/>
+
+        <TextView
+            android:id="@+id/txtErrorMsg"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/msg_login_error" />
+
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="223dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/style_menu_btn_blue"
+            android:text="@string/lbl_login"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:layout_gravity="center"
+            />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/versi"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ver 0.1.6 | copyrights 2016"
+        android:textColor="#ffffff"
+        android:paddingBottom="10dp"
+        android:textSize="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

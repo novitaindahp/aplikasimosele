@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#ffffff">
+
+    <com.alexzh.circleimageview.CircleImageView
+        android:id="@+id/pic"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/ic_pakan"
+        app:view_borderWidth="3dp"
+        app:view_borderColor="#ffffff"/>
+    <TextView
+        android:id="@+id/tex"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="PELET A"
+        android:layout_toRightOf="@id/pic"/>
+    c
+    <com.alexzh.circleimageview.CircleImageView
+        android:id="@+id/pic2"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/ic_pakan"
+        app:view_borderWidth="3dp"
+        app:view_borderColor="#ffffff"
+        android:layout_below="@+id/pic"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <TextView
+        android:id="@+id/tex2"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="PELET B"
+        android:layout_below="@+id/pic"
+        android:layout_toRightOf="@+id/pic2"
+        android:layout_toEndOf="@+id/pic2" />
+    <Button
+        android:id="@+id/bott2"
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="pesan"
+        android:background="@drawable/style_menu_btn_blue"
+        android:textStyle="bold"
+        android:textColor="#9194f7"
+
+        android:layout_alignTop="@+id/tex2"
+        android:layout_alignLeft="@+id/bott"
+        android:layout_alignStart="@+id/bott"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="pesan"
+        android:background="@drawable/style_menu_btn_blue"
+        android:textStyle="bold"
+        android:textColor="#9194f7"
+        android:layout_above="@+id/bott2"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>

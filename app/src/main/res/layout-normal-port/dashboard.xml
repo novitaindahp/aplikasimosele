@@ -1,0 +1,95 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#ffffff" >
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="#4091e2"
+        app:titleTextColor="#FFFFFF"
+        app:layout_scrollFlags="scroll|enterAlways"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/tambahkolambaru"
+        android:layout_alignEnd="@+id/tambahkolambaru" />
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:id="@+id/namaprofil"
+        android:orientation="vertical"
+        android:layout_weight="0.15"
+        android:paddingLeft="30dp"
+        android:paddingBottom="-35dp">
+
+
+
+    </LinearLayout>
+    <include
+        android:id="@+id/isinav"
+        layout="@layout/navigasiku"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_below="@+id/profil"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true" />
+
+
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/tambahkolambaru"
+        android:layout_width="65dp"
+        android:layout_height="75dp"
+        android:src="@drawable/ic_tulis"
+        android:paddingBottom="5dp"
+        app:backgroundTint="@color/colorPrimaryDark"
+        android:layout_below="@+id/namapetani"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <com.alexzh.circleimageview.CircleImageView
+        android:id="@+id/profil"
+        android:layout_width="103dp"
+        android:layout_height="102dp"
+        android:src="@drawable/noz"
+        app:view_borderWidth="3dp"
+        app:view_borderColor="#99ccff"
+        android:layout_alignTop="@+id/namapetani"
+        android:layout_toLeftOf="@+id/alamat"
+        android:layout_toStartOf="@+id/alamat" />
+
+    <TextView
+        android:id="@+id/alamat"
+        android:layout_width="226dp"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:paddingLeft="20dp"
+        android:text="Demangan, Sanden "
+        android:textColor="#686868"
+        android:textSize="16sp"
+        android:layout_below="@+id/namaprofil"
+        android:layout_toLeftOf="@+id/tambahkolambaru"
+        android:layout_toStartOf="@+id/tambahkolambaru" />
+
+    <TextView
+        android:id="@+id/namapetani"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:text="hhhh"
+        android:paddingTop="20dp"
+        android:paddingLeft="20dp"
+        android:textColor="#252c8f"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_above="@+id/alamat"
+        android:layout_toRightOf="@+id/profil"
+        android:layout_toEndOf="@+id/profil" />
+
+</RelativeLayout>
