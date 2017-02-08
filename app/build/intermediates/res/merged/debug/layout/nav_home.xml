@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+
+    <TextView
+        android:id="@+id/namapetani"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:text="hhhh"
+        android:paddingTop="20dp"
+        android:paddingLeft="20dp"
+        android:textColor="#252c8f"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/card_registrasi_background_selector"
+        android:descendantFocusability="afterDescendants"
+        android:orientation="vertical"
+        android:paddingBottom="10dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingTop="10dp"
+        android:id="@+id/linearLayout4"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/namapetani">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/ic_launcerlele"
+                android:gravity="center_vertical|center_horizontal"
+                android:textColor="#FBFAFC"
+                android:layout_marginRight="10dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/lblJualMdd"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="left"
+                    android:text="Kolam 1"
+                    android:textColor="#031243"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/bibitawal"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="left"
+                    android:text="Luas kolam :"
+                    android:textColor="#686868"
+                    android:textSize="12sp"
+                     />
+
+                <TextView
+                    android:id="@+id/textView16"
+                    android:layout_width="293dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="left"
+                    android:text="Jumlah bibit"
+                    android:textColor="#686868"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/textView16"
+                    android:layout_width="293dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="left"
+                    android:text="Jumlah bibit"
+                    android:textColor="#686868"
+                    android:textSize="12sp" />
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal" >
+
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+
+
+        <Button
+            android:id="@+id/lblNotifSt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#9194f7"
+            android:text="mulai tebar bibit"
+            android:textColor="#323133"
+            android:textSize="12sp"
+            android:layout_gravity="right" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

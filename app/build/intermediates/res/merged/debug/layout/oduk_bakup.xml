@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btnmodul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/style_menu_btn_blue"
+        android:text="1. cara penebaran bibit lele"
+        android:textStyle="bold"
+        android:textColor="#83b4e4"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:backgroundTint="#d1def9"
+        android:layout_gravity="center"
+        android:layout_below="@+id/linearLayout2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+    <Button
+        android:id="@+id/btnmodulku"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/style_menu_btn_blue"
+        android:text="2. cara penebaran bibit lele"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:backgroundTint="#a2c1df"
+        android:layout_gravity="center"
+        android:layout_below="@+id/btnmodul"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/btnmodul1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/style_menu_btn_blue"
+        android:text="1. Modul Pembuatan Kolam Terpal"
+        android:textStyle="bold"
+        android:textColor="#83b4e4"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:backgroundTint="#d1def9"
+        android:layout_gravity="center"
+        android:layout_below="@+id/linearLayout3"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+    <Button
+        android:id="@+id/btnmodulku1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/style_menu_btn_blue"
+        android:text="2. Modul cara pemilihan bibit lele yang baik"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:backgroundTint="#a2c1df"
+        android:layout_gravity="center"
+        android:layout_below="@+id/btnmodul"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/style_menu_btn_blue"
+        android:text="4. Modul cara membuat pakan lele alternatif"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:backgroundTint="#a2c1df"
+        android:layout_gravity="center"
+        android:layout_below="@+id/btnmodulku"
+        android:layout_alignLeft="@+id/btnmodulku"
+        android:layout_alignStart="@+id/btnmodulku"
+        android:layout_marginTop="40dp"
+        android:layout_marginRight="5dp"/>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/style_menu_btn_blue"
+        android:text="3. Modul cara Strerilisasi dan
+        penebaran bibit lele"
+        android:textStyle="bold"
+        android:textColor="#83b4e4"
+        android:backgroundTint="#d1def9"
+        android:layout_gravity="center"
+        android:layout_alignBottom="@+id/button"
+        android:layout_alignRight="@+id/btnmodulku"
+        android:layout_alignEnd="@+id/btnmodulku"
+        android:layout_marginLeft="5dp"
+        android:layout_marginBottom="44dp" />
+
+
+</RelativeLayout>

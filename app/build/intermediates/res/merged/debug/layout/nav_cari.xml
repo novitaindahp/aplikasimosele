@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="cari"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        android:layout_centerInParent="true"/>
+    <Button
+        android:id="@+id/btnkolam"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/style_menu_btn_blue"
+        android:text="kolam 1"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:backgroundTint="#4091e2"
+        android:layout_gravity="center"
+        android:layout_below="@+id/linearLayout2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+    <Button
+        android:id="@+id/btnkolam2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/style_menu_btn_blue"
+        android:text="kolam 2"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:backgroundTint="#4091e2"
+        android:layout_gravity="center"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/btnkolam"
+        android:layout_alignParentLeft="true" />
+
+
+</RelativeLayout>

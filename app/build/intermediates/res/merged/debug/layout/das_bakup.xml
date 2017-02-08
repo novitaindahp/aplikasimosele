@@ -1,0 +1,91 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:background="#ffffff" >
+<android.support.v7.widget.Toolbar
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="#4091e2"
+    app:titleTextColor="#FFFFFF"
+    app:layout_scrollFlags="scroll|enterAlways"
+    app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="72dp"
+    android:layout_alignRight="@+id/linearLayout3"
+    android:layout_marginLeft="10dp"
+    android:layout_marginTop="10dp"
+    android:orientation="vertical"
+    android:layout_below="@id/toolbar"
+    android:id="@+id/linearLayout">
+
+    <com.alexzh.circleimageview.CircleImageView
+        android:id="@+id/profil"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:src="@drawable/noz"
+        app:view_borderWidth="3dp"
+        app:view_borderColor="#99ccff"/>
+
+</LinearLayout>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    android:layout_below="@+id/linearLayout"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true">
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/tambahkolambaru"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:src="@drawable/ic_tulis"
+        android:paddingBottom="5dp"
+        app:backgroundTint="@color/colorPrimaryDark"
+
+        />
+
+    <include
+        android:id="@+id/isinav"
+        layout="@layout/navigasiku"
+        />
+
+</LinearLayout>
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/namapetani"
+    android:layout_gravity="center_horizontal"
+    android:text=""
+    android:textStyle="bold"
+    android:textColor="#000000"
+    android:textSize="18dp"
+    android:layout_alignTop="@+id/linearLayout"
+    android:layout_toRightOf="@+id/linearLayout"
+    android:layout_toEndOf="@+id/linearLayout"
+    android:layout_marginLeft="34dp"
+    android:layout_marginStart="34dp" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/alamat"
+    android:layout_gravity="center_horizontal"
+    android:text="Demangan, Sanden"
+    android:textStyle=""
+    android:textColor="#000000"
+    android:textSize="13dp"
+    android:layout_below="@+id/namapetani"
+    android:layout_alignLeft="@+id/namapetani"
+    android:layout_alignStart="@+id/namapetani" />
+</RelativeLayout>

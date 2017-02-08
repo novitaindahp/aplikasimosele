@@ -1,0 +1,590 @@
+[
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_button_round_yellow.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\style_button_round_yellow.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_user_2.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\ic_user_2.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\up.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_registrasi_state_pressed.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\card_registrasi_state_pressed.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_ab_focused_custom_action_blue.9.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\spinner_ab_focused_custom_action_blue.9.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_tab_module.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\icon_tab_module.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selected_custom_action_blue.9.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\tab_selected_custom_action_blue.9.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_button_round_grey.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\style_button_round_grey.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_notifabu.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\ic_tab_notifabu.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_btn_menu_state_pressed.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\style_btn_menu_state_pressed.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_menu_left_normal.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\style_menu_left_normal.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcerlele2.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\ic_launcerlele2.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_unselected_custom_action_blue.9.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\tab_unselected_custom_action_blue.9.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_notif.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\ic_tab_notif.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mn_back_white.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\ic_mn_back_white.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_tab_notif.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\icon_tab_notif.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_ab_default_custom_action_blue.9.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\spinner_ab_default_custom_action_blue.9.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher3.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\ic_launcher3.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_grafikhtm.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\ic_tab_grafikhtm.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lelebck.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\lelebck.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_background_ab_custom_action_blue.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\spinner_background_ab_custom_action_blue.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selected_pressed_custom_action_blue.9.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\tab_selected_pressed_custom_action_blue.9.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal_custom_action_blue.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\progress_horizontal_custom_action_blue.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_btn_menu_state_normal.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\style_btn_menu_state_normal.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_moduleabu.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\ic_tab_moduleabu.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_button_round_green.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\style_button_round_green.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_menu_btn_app_yellow_normal.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\style_menu_btn_app_yellow_normal.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lelesplash.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\lelesplash.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_button_round_blue.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\style_button_round_blue.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textlines.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\textlines.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_orang.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\ic_orang.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_button_round_white.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\style_button_round_white.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_unselected_pressed_custom_action_blue.9.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\tab_unselected_pressed_custom_action_blue.9.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_registrasi_background.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\card_registrasi_background.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_view_shadow.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\style_view_shadow.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mn_main_menu_white_real.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\ic_mn_main_menu_white_real.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selectable_background_custom_action_blue.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\selectable_background_custom_action_blue.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_homeabu.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\ic_tab_homeabu.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\free_icon_sets_92.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\free_icon_sets_92.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_menu_drop_shadow.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\style_menu_drop_shadow.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_menu_btn_blue.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\style_menu_btn_blue.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_indicator_ab_custom_action_blue.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\tab_indicator_ab_custom_action_blue.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_home.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\ic_tab_home.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_uad.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\logo_uad.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_layout_underline.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\style_layout_underline.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_ab_pressed_custom_action_blue.9.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\spinner_ab_pressed_custom_action_blue.9.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_card_detail_state_pressed.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\style_card_detail_state_pressed.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_ab_disabled_custom_action_blue.9.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\spinner_ab_disabled_custom_action_blue.9.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_demo_photo.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\user_demo_photo.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_menu_title.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\style_menu_title.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_menu_btn_app_yellow_press.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\style_menu_btn_app_yellow_press.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_homehtm.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\ic_tab_homehtm.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\img.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\free_icon_sets_93.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\free_icon_sets_93.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lelelogo.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\lelelogo.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_pressed_custom_action_blue.9.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\list_pressed_custom_action_blue.9.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\moselelogin.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\moselelogin.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_cari.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\ic_tab_cari.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\rectangle.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_demo.gif",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\user_demo.gif"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_modulehtm.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\ic_tab_modulehtm.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tulis.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\ic_tulis.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_module.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\ic_tab_module.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_progress_bar.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\style_progress_bar.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_kolam.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\ic_kolam.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_menu_left_hover.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\style_menu_left_hover.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_button_round_red.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\style_button_round_red.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bg_custom_action_blue.9.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\progress_bg_custom_action_blue.9.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mlele.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\mlele.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_tab_grafik.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\icon_tab_grafik.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\success.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\success.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_blue_new_512.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\icon_blue_new_512.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_unselected_focused_custom_action_blue.9.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\tab_unselected_focused_custom_action_blue.9.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selected_focused_custom_action_blue.9.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\tab_selected_focused_custom_action_blue.9.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_menu_left_listselector.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\style_menu_left_listselector.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_menu_btn_blue_normal.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\style_menu_btn_blue_normal.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_registrasi_background_selector.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\card_registrasi_background_selector.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\noz.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\noz.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\down.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_menu_btn_blue_press.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\style_menu_btn_blue_press.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_btn_menu_selector.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\style_btn_menu_selector.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_card_detail_selector.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\style_card_detail_selector.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_logo_uad.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\ic_logo_uad.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fix1.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\fix1.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_modul2.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\ic_modul2.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcerlele.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\ic_launcerlele.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fail.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\fail.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_notifhtm.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\ic_tab_notifhtm.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_pakan.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\ic_pakan.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_blue_new_128.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\icon_blue_new_128.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_menu_btn_app_yellow.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\style_menu_btn_app_yellow.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_grafik.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\ic_tab_grafik.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_tab_home.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\icon_tab_home.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_password.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\ic_action_password.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\free_icon_sets_29.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\free_icon_sets_29.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bb_bottom_bar_top_shadow.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\exploded-aar\\com.roughike\\bottom-bar\\1.2.1\\res\\drawable\\bb_bottom_bar_top_shadow.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_primary_custom_action_blue.9.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\progress_primary_custom_action_blue.9.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_focused_custom_action_blue.9.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\list_focused_custom_action_blue.9.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_grafikabu.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\ic_tab_grafikabu.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_card_detail_state_normal.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\style_card_detail_state_normal.xml"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_secondary_custom_action_blue.9.png",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\progress_secondary_custom_action_blue.9.png"
+    },
+    {
+        "merged": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_background_search.xml",
+        "source": "G:\\SKRIPSINOVITA\\SKRIPSI\\MOSELE3\\app\\src\\main\\res\\drawable\\style_background_search.xml"
+    }
+]

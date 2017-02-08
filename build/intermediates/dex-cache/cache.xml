@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_3e875714146d388e9c2cb4a1da171fabb71c4a42.jar" />
+    </item>
+    <item
+        jar="C:\Users\Noon\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_de055f4a87edde1bbee5db012e6373411a3ea0e9.jar" />
+    </item>
+    <item
+        jar="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_0d49f6bb77fd9024cb5a50cf4dd51b34f010e92c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Noon\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\pre-dexed\debug\library-1.0.19_58510e696853a2980032ae05db751cddaf1a7784.jar" />
+    </item>
+    <item
+        jar="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_a080aea557a271e88627468b6d385de4ca6b1126.jar" />
+    </item>
+    <item
+        jar="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_616bdb9e4053ccf3473ebaa89433b5902d2cb53f.jar" />
+    </item>
+    <item
+        jar="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_0adadcc4e46bbbedd7337971937ca873dd91a01b.jar" />
+    </item>
+    <item
+        jar="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\exploded-aar\com.alexzh\circleimageview\1.1.2\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="bef8a6e9c48d173c5507cf734637b0726dc3afb1">
+        <dex dex="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\pre-dexed\debug\com.alexzh-circleimageview-1.1.2_55bfb367d34c2c1ae7d702bc15122447ae238bd6.jar" />
+    </item>
+    <item
+        jar="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\exploded-aar\com.roughike\bottom-bar\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="9dd08a0718f3c970caefd7c77f78726a50845655">
+        <dex dex="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\pre-dexed\debug\com.roughike-bottom-bar-1.2.1_5dcc36a5af37e9bd424640c61c510a62b3b64c29.jar" />
+    </item>
+    <item
+        jar="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.1_95262e80612295d25b17366387ec90aeb461dc13.jar" />
+    </item>
+    <item
+        jar="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_b1b567428c26612245783ff64b141afee2330378.jar" />
+    </item>
+    <item
+        jar="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_27a24dd4954f774505e5dd40a21e097f6c2e37f0.jar" />
+    </item>
+    <item
+        jar="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_afcfcebf0a87c810db3c01033fc92f7d0761e0a0.jar" />
+    </item>
+    <item
+        jar="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\exploded-aar\com.mikhaellopez\circularimageview\2.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ad9502cba7a9672b025189f400ff37537867dd75">
+        <dex dex="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\pre-dexed\debug\com.mikhaellopez-circularimageview-2.0.1_fc866f8f5900ce3bafe99a63e944bb8f50a0feef.jar" />
+    </item>
+    <item
+        jar="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_d5ed1ea036a87ce34ac1578644343c8e531baf84.jar" />
+    </item>
+    <item
+        jar="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.1_a672a9bf633eac8c7cd2c431a14929d8efdc0e0b.jar" />
+    </item>
+    <item
+        jar="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="G:\SKRIPSINOVITA\SKRIPSI\MOSELE3\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_b94476a4beb5e9c7b0d81d952ef0aefd84f2fc6d.jar" />
+    </item>
+
+</items>
